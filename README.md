@@ -1,2 +1,3 @@
 # hello-world
-getting familiar...
+
+This is Süleyman Muti, a mechanical engineer with a passion for programming!
